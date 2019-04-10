@@ -56,11 +56,6 @@ app.post("/",function(req,res){
     });
 });
 
-//2b511c55fc4281d3aba42c14b86e9d98-us20
-
-//c36431101f
-
-
 app.listen(process.env.PORT || 3000, function(){
     console.log("Server Listening to Port 3000");
 });
